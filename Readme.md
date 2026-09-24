@@ -28,8 +28,10 @@ An interactive Power BI dashboard designed to analyze insurance premiums, covera
 - Adult customers account for the highest displayed claim amount among the age groups.
 
 ## Dashboard Preview
-![Insurance Dashboard](screenshot/Insurance_Dashboard 1.png)
-![Insurance Dashboard](screenshot/Insurance_Dashboard 2.png)
+
+![Insurance Dashboard](screenshot/Insurance_Dashboard_1.png)
+
+![Insurance Dashboard](screenshot/Insurance_Dashboard_2.png)
 
 
 ## How to Use
