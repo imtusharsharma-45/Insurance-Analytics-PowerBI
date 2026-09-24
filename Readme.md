@@ -31,7 +31,7 @@ An interactive Power BI dashboard designed to analyze insurance premiums, covera
 
 ![Insurance Dashboard](screenshot/Insurance_Dashboard_1.png)
 
-![Insurance Dashboard](screenshot/Insurance_Dashboard_2.png)
+![Insurance Dashboard](https://github.com/imtusharsharma-45/Insurance-Analytics-PowerBI/blob/main/screenshot/Insurance_Dashboard_2.png)
 
 
 ## How to Use
